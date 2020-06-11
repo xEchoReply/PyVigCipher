@@ -1,8 +1,8 @@
-#Python Vigenere Cipher
+# Python Vigenere Cipher
 
 Python3 function to encrypt/decrypt a message with a key.
 
-##How to Run
+## How to Run
 
 Run program in Python3:
 
@@ -26,7 +26,7 @@ VigCipher(inputString, inputKey, eOrD)
 *inputKey*: key to encrypt or decrypt your message
 *eOrD*: indicate if you wish to encrypt or decrypt the message, using either *e* or *d*. Defaults to *e* if invalid response.
 
-##Example
+## Example
 ```
 VigCipher("This is my secret message.","panda","e")
 ```
