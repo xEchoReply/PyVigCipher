@@ -1,6 +1,6 @@
 import string
 
-def VigCipher(inputString, inputKey,encryptDecrypt="e"):
+def VigCipher(inputString, inputKey, encryptDecrypt="e"):
     #Check if third argument is "e" or "d"
     #If neither, default to encrypt
     encryptDecrypt=encryptDecrypt.lower()
